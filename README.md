@@ -2,6 +2,8 @@
 
 Stealer mirrors your system audio to a second output device in real time.
 
+Documentation: [dev.robertoattanasio.com/stealer](https://dev.robertoattanasio.com/stealer)
+
 ## Download
 
 [Download the latest installer](https://github.com/robertoattanasio/stealer-releases/releases/latest/download/Stealer-setup.exe)
